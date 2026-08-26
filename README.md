@@ -37,8 +37,8 @@ Certifique-se de ter o [VirtualBox](https://www.virtualbox.org/wiki/Downloads) e
 
 1. Clone este repositório e acesse a pasta do projeto:
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-   cd SEU_REPOSITORIO
+   git clone https://github.com/hrvtonn/vagrant-docker-lab.git
+   cd vagrant-docker-lab
    ```
 
 2. Inicialize as máquinas virtuais:

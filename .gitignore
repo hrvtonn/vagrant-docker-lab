@@ -1,0 +1,11 @@
+# Ignorar pastas geradas pelo Vagrant
+.vagrant/
+
+# Ignorar arquivos temporários de editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignorar arquivos de log
+*.log
